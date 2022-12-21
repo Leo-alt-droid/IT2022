@@ -26,6 +26,6 @@
 
 [Посмотреть отчет]()
 
-## :white_check_mark: Экзаменационный билет №
-[Перейти к билету]()
+## :white_check_mark: Экзаменационный билет №22
+[Перейти к билету](https://github.com/stankin/inet-2022/wiki/exam22)
 [Commit]()
