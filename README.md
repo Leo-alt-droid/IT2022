@@ -26,7 +26,7 @@
 
 [Перейти к отчету](https://github.com/Leo-alt-droid/IT2022/blob/main/Чешков%20Л.А%20ИДБ-18-08%20ЛАБА%206.docx)
 
-[Перейти к конфигурации]()
+[Перейти к конфигурации](https://github.com/Leo-alt-droid/IT2022/blob/main/Чешков%20Л.А%20ИДБ-18-08%20ЛАБА%206.pkt)
 
 ## :white_check_mark: Экзаменационный билет №22
 [Перейти к билету](https://github.com/stankin/inet-2022/wiki/exam12)
