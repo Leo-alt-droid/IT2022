@@ -3,7 +3,7 @@
 ## :white_check_mark: Лабораторная работа 1
 Вся работа проводится в системе разработки программ с открытым кодом - GitHub.
 В рамках первой лабораторной работы:
-1. Была произведена регистрация в GitHub.
+1. Была произведена регистрация в [GitHub](https://github.com).
 2. Был создан личный [репозиторий](https://github.com/Leo-alt-droid/IT2022) для сохранения результатов выполнения лабораторных работ.
 3. Был создан [проект](https://github.com/users/Leo-alt-droid/projects/1/views/1).
 4. Был создан файл [readme.md](https://github.com/Leo-alt-droid/IT2022#readme) в личном репозитории с бланком отчета о лабораторных работах.
@@ -27,6 +27,8 @@
 [Перейти к отчету](https://github.com/Leo-alt-droid/IT2022/blob/main/Чешков%20Л.А%20ИДБ-18-08%20ЛАБА%206.docx)
 
 [Перейти к конфигурации](https://github.com/Leo-alt-droid/IT2022/blob/main/Чешков%20Л.А%20ИДБ-18-08%20ЛАБА%206.pkt)
+
+В ходе выполнения лабораторной работы были прописаны протоколы EIGRP, SSH, spanning tree. Также были настроены port security, wlan.
 
 ## :white_check_mark: Экзаменационный билет №22
 [Перейти к билету](https://github.com/stankin/inet-2022/wiki/exam12)
