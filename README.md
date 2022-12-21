@@ -29,4 +29,4 @@
 ## :white_check_mark: Экзаменационный билет №22
 [Перейти к билету](https://github.com/stankin/inet-2022/wiki/exam12)
 
-[Commit](https://github.com/Leo-alt-droid/IT2022/blob/main/Compare%20revisions%20%C2%B7%20stankin_inet-2022%20Wiki.pdf)
+[Compare revisions](https://github.com/Leo-alt-droid/IT2022/blob/main/Compare%20revisions%20%C2%B7%20stankin_inet-2022%20Wiki.pdf)
