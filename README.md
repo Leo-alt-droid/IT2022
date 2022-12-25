@@ -24,6 +24,8 @@
 ## :white_check_mark: Лабораторная работа 3
 В рамках третьей лабораторной работы предоставляю отчеты по работе в Cisco Packet Tracer.
 
+Оба файла загружены в гитхаб и их можно скачать по ссылкам ниже. Если вдруг ссылки, действительно битые, то вот [ссылка на гугл документ](https://docs.google.com/document/d/1JASAdExtz3Z89GsuinNywUaqzJhSSZM1/edit).
+
 [Перейти к отчету](https://github.com/Leo-alt-droid/IT2022/blob/main/Чешков%20Л.А%20ИДБ-18-08%20ЛАБА%206.docx)
 
 [Перейти к конфигурации](https://github.com/Leo-alt-droid/IT2022/blob/main/Чешков%20Л.А%20ИДБ-18-08%20ЛАБА%206.pkt)
